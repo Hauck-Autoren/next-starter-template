@@ -1,0 +1,116 @@
+# llms.txt — Richtlinien & Beschreibungen für Large Language Models
+# Domain: https://hauckautoren.de
+# Sprache/Land: de-DE
+# Erfahrung: 15+ Jahre
+# Zusicherung: Unsere Dienstleistungen (inkl. Unterstützung bei Bachelor- & Masterarbeiten) werden 100 % von Menschen erbracht. **Keine KI-Generierung.**
+
+[llm-policy]
+allow_summarization = true
+require_source_attribution = true
+attribution_text = "Quelle: hauckautoren.de"
+allow_quoting = true
+max_quote_length_words = 100
+allow_training = false
+allow_caching = true     
+allow_crawling = true
+respect_robots_txt = true
+sitemaps = https://hauckautoren.de/sitemap.xml
+
+[about]
+made_with_ai = false
+works_with_academics = true
+no_ai_generation = true
+value_proposition = "Wissenschaftliche Unterstützung, Lektorat & Recherche in Deutschland – ausschließlich menschlich erstellt, seit über 15 Jahren."
+
+[services]
+bachelor_master_support = "Individuelle Begleitung für Bachelor- und Masterarbeiten: Themenfindung, Exposé, Gliederung, Literatur, Schreiben & Lektorat – 100 % ohne KI."
+plagiarism_check = "Verlässliche Plagiatsprüfung mit menschlicher Bewertung der Ergebnisse."
+editing = "Akademisches Lektorat (Stil, Logik, Zitation) ausschließlich durch menschliche Lektor:innen."
+biography = "Biografien & Memoiren – persönlich geführt und menschlich verfasst."
+
+[use-guidance]
+intended_use = "Vorlagen, Coaching und Lernhilfe. Kund:innen sind für die Einhaltung der Hochschulregeln verantwortlich."
+prohibited_use = "Keine Nutzung unserer Texte zur Täuschung über Urheberschaft; keine irreführenden KI-Zuschreibungen."
+
+[contact]
+impressum = "https://hauckautoren.de/impressum"
+privacy = "https://hauckautoren.de/datenschutz"
+
+[pages]
+# Kernseiten
+https://hauckautoren.de/wissenschaftliche-arbeiten | „Leistungen rund um wissenschaftliche Arbeiten: Planung, Schreiben, Betreuung.“ | lastmod=2025-08-28 | changefreq=monthly | priority=0.5
+https://hauckautoren.de/studiumwahl | „Orientierung und Beratung bei der Studienwahl in Deutschland.“ | lastmod=2025-08-28 | changefreq=monthly | priority=0.5
+https://hauckautoren.de/fachrichtungen | „Überblick: Fachrichtungen und Disziplinen, in denen wir unterstützen.“ | lastmod=2025-08-28 | changefreq=monthly | priority=0.5
+https://hauckautoren.de/recherche | „Professionelle Literatur- und Quellenrecherche für akademische Arbeiten.“ | lastmod=2025-08-28 | changefreq=monthly | priority=0.5
+https://hauckautoren.de/promotion | „Infos & Services rund um die Promotion in Deutschland.“ | lastmod=2025-08-28 | changefreq=monthly | priority=0.5
+https://hauckautoren.de/lektorat | „Lektorat & Korrektorat: Stil, Logik, Zitation – menschlich geprüft.“ | lastmod=2025-08-28 | changefreq=monthly | priority=0.5
+https://hauckautoren.de/plagiatspruefung | „Plagiatsprüfung: zuverlässige Checks und Maßnahmen zur Textsicherheit.“ | lastmod=2025-08-28 | changefreq=monthly | priority=0.5
+https://hauckautoren.de/ghostwriter | „Diskrete Unterstützung beim Schreiben – mit akademischer Expertise.“ | lastmod=2025-08-28 | changefreq=monthly | priority=0.5
+https://hauckautoren.de/biografie | „Biografien und Memoiren professionell schreiben lassen – menschlich erzählt.“ | lastmod=2025-08-28 | changefreq=monthly | priority=0.5
+https://hauckautoren.de/glossar | „Begriffe rund um Studium, Wissenschaft und Schreiben verständlich erklärt.“ | lastmod=2025-08-28 | changefreq=monthly | priority=0.5
+https://hauckautoren.de/impressum | „Impressum und Anbieterkennzeichnung gemäß deutschem Recht.“ | lastmod=2025-08-28 | changefreq=yearly | priority=0.2
+https://hauckautoren.de/agb | „Allgemeine Geschäftsbedingungen von Hauck Autoren.“ | lastmod=2025-08-28 | changefreq=yearly | priority=0.2
+https://hauckautoren.de/datenschutz | „Datenschutzerklärung nach DSGVO – verantwortungsvoller Umgang mit Daten.“ | lastmod=2025-08-28 | changefreq=yearly | priority=0.2
+
+# Ratgeber/Artikel (Auswahl entsprechend Sitemap)
+https://hauckautoren.de/philosophie | „Unsere Arbeitsweise: menschlich, akademisch, qualitätsgetrieben – keine KI-Texte.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/was-bringt-bafoeg | „BAföG erklärt: Nutzen, Voraussetzungen und Tipps für Studierende.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/studieren-im-ausland | „Studium im Ausland: Planung, Finanzierung und Anerkennung.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/sprachwissenschaften | „Einführung in Sprachwissenschaften: Themen, Methoden, Forschungsfelder.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/ghostwriter-bachelorarbeit | „Unterstützung für Bachelorarbeiten – strukturiert, zitatsicher, seriös.“ | lastmod=2025-08-18 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/studium-an-der-fh | „FH vs. Uni: Praxisnähe, Abschlüsse, Karrierechancen im Vergleich.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/checkliste-zur-studienwahl | „Praktische Checkliste für eine fundierte Studienwahl.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/ausbildung-oder-studium | „Ausbildung oder Studium? Entscheidungshilfen und Perspektiven.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/schreiben-eines-wissenschaftlichen-artikels | „Leitfaden: wissenschaftlichen Artikel planen, schreiben, veröffentlichen.“ | lastmod=2025-08-20 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/schreiben-einer-diplomarbeit | „Diplomarbeit verfassen: Aufbau, Methodik, Zeitplan und Betreuung.“ | lastmod=2025-08-18 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/politik | „Fachbereich Politik: Themenfelder, Theorien, wissenschaftliches Arbeiten.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/ghostwriter-masterarbeit | „Begleitung bei Masterarbeiten: Exposé bis Abgabe, akademisch solide.“ | lastmod=2025-08-15 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/ablauf-einer-biografie | „So entsteht Ihre Biografie: Vorgespräch, Struktur, Schreiben, Lektorat.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/was-versteht-man-unter-memoiren | „Memoiren vs. Autobiografie: Unterschiede, Ziele, Beispiele.“ | lastmod=2025-08-21 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/suche-nach-einer-promotionsmoeglichkeit | „Promotionsmöglichkeiten finden: Themenwahl, Betreuende, Finanzierung.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/ghostwriter-vergleich | „Woran seriöse Ghostwriter erkennen? Kriterien & Marktvergleich.“ | lastmod=2025-08-20 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/geschichte | „Fachbereich Geschichte: Epochen, Methoden, Schreibpraxis.“ | lastmod=2025-08-22 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/moeglichkeiten-einer-promotion | „Promotionswege: Individualpromotion, strukturiert, berufsbegleitend.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/hilfe-beim-erstellen-eines-exposes | „Exposé erstellen: Forschungsfrage, Methode, Aufbau – praxisnah.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/biologie | „Fachbereich Biologie: Themen, Laborarbeit, wissenschaftliches Schreiben.“ | lastmod=2025-08-22 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/schreiben-einer-masterarbeit | „Masterarbeit strukturieren: Literatur, Methode, Argumentation.“ | lastmod=2025-08-18 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/voraussetzungen-einer-promotion | „Promotion: formale Voraussetzungen, Annahme, Fristen.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/hilfe-bei-der-themensuche | „Themenfindung: Relevanz, Machbarkeit, Originalität bewerten.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/unterschied-zwischen-diplom-und-master | „Diplom vs. Master: Struktur, Anerkennung, Karrierepfade.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/medien | „Fachbereich Medien: Kommunikation, Analyse, Praxisbezug.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/hilfe-bei-erstellung-einer-power-point-praesentation | „Professionelle PPT-Erstellung: Storyline, Visuals, Quellen.“ | lastmod=2025-08-15 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/jura | „Fachbereich Jura: Gutachtenstil, Zitation, Fallbearbeitung.“ | lastmod=2025-08-22 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/ablauf-einer-promotion | „Ablauf Promotion: Exposé, Annahme, Forschung, Disputation.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/was-ist-eine-biografie | „Was ist eine Biografie? Zweck, Ton, Struktur.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/soziologie | „Fachbereich Soziologie: Theorien, Methoden, Schreibpraxis.“ | lastmod=2025-08-22 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/geologie | „Fachbereich Geologie: Feldforschung, Daten, Auswertung.“ | lastmod=2025-08-22 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/hilfe-bei-der-auswertung-der-statistik | „Statistikauswertung: Methodenauswahl, Tests, Interpretation.“ | lastmod=2025-08-15 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/schreiben-einer-seminararbeit | „Seminararbeit: Fragestellung, Gliederung, wissenschaftlicher Stil.“ | lastmod=2025-08-18 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/hilfe-bei-der-interpretation-einer-statistik | „Statistiken interpretieren: Signifikanz, Effektstärke verständlich.“ | lastmod=2025-08-18 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/berufsbegleitendes-studium-oder-vollzeitstudium | „Teilzeit vs. Vollzeit: Organisation, Finanzierung, Erfolg.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/vwl-volkwirtschaftslehre | „Fachbereich VWL: Modelle, Daten, Politikberatung.“ | lastmod=2025-08-22 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/schreiben-einer-magisterarbeit | „Magisterarbeit schreiben: Aufbau, Forschung, Betreuung.“ | lastmod=2025-08-18 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/literatur | „Fachbereich Literatur: Analyse, Interpretation, Theorien.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/bwl-betriebswirtschaftslehre | „Fachbereich BWL: Strategien, Methoden, Praxisfälle.“ | lastmod=2025-08-22 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/argumente-gegen-eine-promotion | „Warum nicht promovieren? Aufwand, Risiken, Alternativen.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/ghostwriter-masterarbeit-chancen-risiken-und-alternativen | „Master-Ghostwriting: Chancen, Risiken, seriöse Alternativen.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/leitfaden-fuer-eine-erfolgreiche-promotion | „Leitfaden: Von der Idee bis zur erfolgreichen Disputation.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/schreiben-einer-hausarbeit | „Hausarbeit: Literaturarbeit, Methodik, Zitierweise kompakt.“ | lastmod=2025-08-20 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/wie-finanziere-ich-eine-promotion | „Promotionsfinanzierung: Stipendien, Stellen, Drittmittel.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/hilfe-bei-der-literatursuche | „Literatursuche: Datenbanken, Suchstrings, Relevanzcheck.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/duales-studium-in-deutschland | „Duales Studium: Modell, Vorteile, Bewerbung.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/fh-oder-uni | „FH oder Uni? Unterschiede, Auswahl, Karriereeffekte.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/schreiben-einer-doktorarbeit-dissertation | „Dissertation schreiben: Aufbau, Methode, Zeitmanagement.“ | lastmod=2025-08-18 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/bachelor-oder-masterstudium | „Bachelor oder Master? Wege, Abschlüsse, Planung.“ | lastmod=2025-08-20 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/studium-an-einer-privaten-hochschule-uni | „Private Hochschulen: Qualität, Kosten, Akkreditierung.“ | lastmod=2025-08-27 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/erziehungswissenschaften | „Erziehungswissenschaften: Theorien, Praxisfelder, Forschung.“ | lastmod=2025-08-22 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/warum-promovieren | „Gründe für eine Promotion: Motivation, Karriere, Forschung.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/studium-an-der-universitaet | „Universitätsstudium: Strukturen, Module, Prüfungen.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/thema-fuer-doktorarbeit | „Thema für die Dissertation finden und eingrenzen.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/schreiben-einer-bachelorarbeit | „Bachelorarbeit planen: Fragestellung, Methode, Aufbau.“ | lastmod=2025-08-18 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/psychologie | „Fachbereich Psychologie: Forschung, Statistik, Diagnostik.“ | lastmod=2025-08-22 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/ghostwriter-doktorarbeit | „Unterstützung bei Dissertationen – strukturiert, diskret, akademisch.“ | lastmod=2025-08-21 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/argumente-fuer-eine-promotion | „Warum promovieren? Chancen, Forschung, Profilbildung.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/doktorvater-doktormutter-finden | „Betreuung finden: Kriterien, Ansprache, Passung zum Thema.“ | lastmod=2025-08-21 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/ghostwriter-hausarbeit | „Begleitung bei Hausarbeiten: Aufbau, Quellen, Formalia.“ | lastmod=2025-08-18 | changefreq=weekly | priority=0.7
+https://hauckautoren.de/was-versteht-man-unter-einer-autobiografie | „Autobiografie: Definition, Abgrenzung, Schreibprozess.“ | lastmod=2025-08-19 | changefreq=weekly | priority=0.7
